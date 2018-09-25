@@ -1,2 +1,2 @@
 # seniorProject
-Senior Project
+Senior Project - Envy Nails Appointment Application
